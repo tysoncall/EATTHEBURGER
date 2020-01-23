@@ -1,2 +1,2 @@
 # EATTHEBURGER
-A restaurant app that lets users input the names of burgers they'd like to eat.
+A restaurant app that lets users input the names of burgers they'd like to eat using handlebars to generate html
